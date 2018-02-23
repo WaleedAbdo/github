@@ -1,0 +1,13 @@
+code githube
+https://github.com/WaleedAbdo/WaleedAbdo.git
+-------------------
+echo "# WaleedAbdo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/WaleedAbdo/WaleedAbdo.git
+git push -u origin master
+-------------------------------
+git remote add origin https://github.com/WaleedAbdo/WaleedAbdo.git
+git push -u origin master
+----------------------------
