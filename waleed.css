@@ -1,0 +1,27 @@
+body{
+  background-color: yellow;
+}
+#p1{
+  background-color:  blue;
+  font-size: 20pt;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding-left: 4%;
+
+}
+.A{
+  background-color: green;
+  margin-top: 2%;
+  float: right;
+}
+.A:hover{
+  background-color: yellow;
+  margin-top: 5%;
+}
+.A:active{
+  background-color: black;
+margin-top:8%;
+font-size: 15px;
+}
