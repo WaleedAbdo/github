@@ -25,3 +25,34 @@ body{
 margin-top:8%;
 font-size: 15px;
 }
+#p1{
+  border-bottom-style:dashed;
+  border-width: 4px;
+  border-top-style: solid;
+  border-color: red;
+  width: 50%;
+  font-size: 16pt;
+  font-style: italic;
+  font-family: "Time New Roman",Times;
+  text-align: center;
+  word-spacing: 2px;
+  text-transform: uppercase;
+  /*height: 20px;*/
+
+}
+table{
+  border-collapse: collapse;
+  text-align: center;
+}
+#n1 .m1{
+  background-color: red;
+}
+table ,tr,td{
+  border: 2px solid black;
+}
+span{
+  display: inline;
+  position: absolute;
+  top: 200px;
+  left: 52px;
+}
