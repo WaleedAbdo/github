@@ -51,8 +51,76 @@ table ,tr,td{
   border: 2px solid black;
 }
 span{
+  padding: 100px;
   display: inline;
   position: absolute;
   top: 200px;
   left: 52px;
+}
+#B{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+#B li{
+  width: 200px;
+  height: 35px;
+  float: left;
+  background-color: #f1f1f1;
+}
+#B li a {
+  display:block;
+  color: #000;
+  text-decoration: none;
+  padding: 8px 0px 8px 16px;
+}
+#B li a:hover {
+  background-color: #555;
+
+  color: white;
+}
+.dowenlistitem{
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+text-decoration: none;
+width: 150px;
+}
+.downlist :hover .dowenlistitem{
+   display: block;
+     text-decoration: none;
+
+
+}
+#W{
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  overflow-y: scroll;
+}
+.AB{
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  position: fixed;
+  background-color: red;
+  height: 150px;
+  width: 100%;
+    z-index:2;
+
+}
+.BA{
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  padding: 10px;
+  z-index:1;
+  position: relative;
+ background-color: green;
+}
+#bh{
+  background-color: blue;
 }
