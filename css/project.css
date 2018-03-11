@@ -1,0 +1,41 @@
+.bgimage{
+  background-image: url('../image/وليد.jpg');
+  background-position: center center;
+  background-size: cover;
+ height: 200px;
+
+}
+.myimg{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 50px;
+}
+.items{
+  text-align: center;
+}
+.AB{
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  position: fixed;
+/*  background-color: red;*/
+  height: 150px;
+  width: 100%;
+    z-index:2;
+
+}
+.BA{
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  padding: 150px;
+  z-index:1;
+  position: relative;
+ /*background-color: green;*/
+}
+.myimg:active {
+  margin-top:80%;
+  font-size: 150px;
+}
