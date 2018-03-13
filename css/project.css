@@ -1,8 +1,8 @@
 .bgimage{
-  background-image: url('../image/وليد.jpg');
+  background-image: url('../image/وليدج11.jpg');
   background-position: center center;
   background-size: cover;
- height: 200px;
+ height: 100px;
 
 }
 .myimg{
@@ -35,7 +35,7 @@
   position: relative;
  /*background-color: green;*/
 }
-.myimg:active {
-  margin-top:80%;
-  font-size: 150px;
+. was
+{
+  padding-bottom: 15px;
 }

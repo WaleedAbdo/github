@@ -1,4 +1,4 @@
-code githube
+mdcode githube
 https://github.com/WaleedAbdo/WaleedAbdo.git
 -------------------
 echo "# WaleedAbdo" >> README.md
